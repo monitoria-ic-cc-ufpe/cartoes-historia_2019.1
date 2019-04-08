@@ -1,0 +1,22 @@
+Artur Cassimiro - aca7@cin.ufpe.br
+
+Fontes para:
+
+1, 2, 3 - https://www.gnu.org/gnu/linux-and-gnu.en.html
+
+4 - Torvalds, Linus; Diamond, David (2001). Just For Fun - The Story Of An Accidental Revolutionary. New York: HarperBusiness. p. 84.
+
+5 - https://dwheeler.com/sloc/redhat71-v1/redhat71sloc.html
+
+6 - https://www.kernel.org/category/faq.html
+
+7 - https://itsfoss.com/linux-runs-top-supercomputers/
+
+8 - TiVo: https://web.archive.org/web/20070519150730/http://www.tivo.com/linux/linux.asp
+    
+    Android: https://www.androidauthority.com/android-linux-784964/
+
+9 - Exemplos: https://www.scientificlinux.org/about/where-is-scientific-linux-running/
+              https://www.instagram.com/p/BuxAxUNHqXY/
+
+10 - https://mirrors.edge.kernel.org/pub/linux/kernel/SillySounds/
