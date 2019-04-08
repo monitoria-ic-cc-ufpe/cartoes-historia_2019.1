@@ -1,6 +1,6 @@
 Artur Cassimiro - aca7@cin.ufpe.br
 
-Fontes para:
+Fontes para a carta GNU/Linux:
 
 1, 2, 3 - https://www.gnu.org/gnu/linux-and-gnu.en.html
 
