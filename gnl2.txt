@@ -1,0 +1,21 @@
+Gabriel Nogueira Leite - gnl2@cin.ufpe.br
+
+Fontes para cartão Linus Torvalds:
+
+https://pt.wikipedia.org/wiki/Linus_Torvalds
+https://www.youtube.com/watch?v=S5S9LIT-hdc
+https://www.youtube.com/watch?v=o8NPllzkFhE&t=659s
+
+Fontes para cartão Fortran:
+
+https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0s_Linguagens_de_Programa%C3%A7%C3%A3o/Fortran
+https://www.youtube.com/watch?v=7iKGCuMf8fI
+
+Fonte para cartão RISC:
+
+https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Arquitetura_de_Computadores/Arquiteturas_RISC_e_CISC
+
+Fonte para cartão Criação do primeiro navegador, WorldWideWeb
+
+https://olhardigital.com.br/noticia/historia-dos-navegadores-do-www-ao-chrome/7285
+https://pt.wikipedia.org/wiki/World_Wide_Web
