@@ -1,0 +1,4 @@
+Fontes:
+https://pt.wikipedia.org/wiki/Python
+https://wiki.python.org/moin/
+https://pt.wikipedia.org/wiki/Wikipédia:Desenvolvimento_técnico/Python
