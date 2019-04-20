@@ -1,0 +1,4 @@
+Fontes:
+https://pt.wikipedia.org/wiki/Python
+https://wiki.python.org/moin/
+http://mindbending.org/pt/a-historia-do-python
